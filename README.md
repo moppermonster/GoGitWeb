@@ -1,0 +1,2 @@
+# GoGitWeb
+Minimal git hosting
